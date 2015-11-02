@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-us" target-language="zh-cn" original="foo.file" tool-id="83f4bebf-8005-4b8e-8937-574cb6984229" product-name="foo" product-version="1.0" build-num="1">
+  <file datatype="xml" source-language="en-us" target-language="zh-cn" original="foo.file" tool-id="ec246a61-e619-4430-b061-72e876141998" product-name="foo" product-version="1.0" build-num="1">
     <header>
-      <tool tool-id="83f4bebf-8005-4b8e-8937-574cb6984229" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
-      <olfilehash xmlns="">1e95deda3ef166f10153ac951fa8c4c77ee0cff1</olfilehash>
+      <tool tool-id="ec246a61-e619-4430-b061-72e876141998" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">8e30e02da22b577fff6706c99247825c9962ea42</olfilehash>
     </header>
     <body>
-      <group id="a54e2f3d-ee77-413a-8637-021722a8409c">
-        <trans-unit id="153c4602-72a4-4a90-b2ac-4afb24631634" xml:space="preserve">
+      <group id="678f004b-03f6-4fd1-a143-c9a8bedbfed7">
+        <trans-unit id="7a4cb009-09c5-4f0d-8b94-9b07cba5e5b7" xml:space="preserve">
           <source>OpenLocalization Workflow Test MarkDown</source>
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
-        <trans-unit id="e0c05ac7-45e8-49f6-a17a-db991d306adc" xml:space="preserve">
-          <source>3824c80e-6a00-4728-a558-bb8c736b96aa 
+        <trans-unit id="94054e1e-f636-4a49-852a-34360b3568d0" xml:space="preserve">
+          <source>cb93e1fb-b2ac-4a1c-b5fb-33f945a43bf8 
 thanks!</source>
-          <target state="new">3824c80e-6a00-4728-a558-bb8c736b96aa 
+          <target state="new">cb93e1fb-b2ac-4a1c-b5fb-33f945a43bf8 
 thanks!</target>
         </trans-unit>
       </group>
