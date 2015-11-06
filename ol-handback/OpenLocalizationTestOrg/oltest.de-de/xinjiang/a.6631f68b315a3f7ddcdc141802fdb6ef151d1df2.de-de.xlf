@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="4f3381f3-d123-4a90-bbb5-33de4bb08ffa" product-name="foo" product-version="1.0" build-num="1">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="bf1b5474-a003-4928-a776-440ad50dde29" product-name="foo" product-version="1.0" build-num="1">
     <header>
-      <tool tool-id="4f3381f3-d123-4a90-bbb5-33de4bb08ffa" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
-      <olfilehash xmlns="">656b6fa2f50ca2f43ad25df2babb2cc4c9c4b467</olfilehash>
+      <tool tool-id="bf1b5474-a003-4928-a776-440ad50dde29" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">42822a247e5ad1ec19879889794359e1108eaa3f</olfilehash>
     </header>
     <body>
-      <group id="f1ab39d2-f2f6-4657-9877-072091d4e539">
-        <trans-unit id="cdff62c7-91c0-481b-b7ad-9a8c6950f706" xml:space="preserve">
+      <group id="d8222484-1ccc-4b16-8efe-6a702dfe42c9">
+        <trans-unit id="4a3a4afb-7475-43b5-ae6d-4c8c91491bde" xml:space="preserve">
           <source>OpenLocalization Workflow Test MarkDown</source>
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
-        <trans-unit id="027f893a-2884-4b06-87f3-0a11f9bf3bfc" xml:space="preserve">
-          <source>1e6809af-3769-44ac-80e1-67526ace8292</source>
-          <target state="new">1e6809af-3769-44ac-80e1-67526ace8292</target>
+        <trans-unit id="559ce95d-2338-4f0e-be39-f97af44c2994" xml:space="preserve">
+          <source>f875deed-9787-4444-b761-6b45b037f1f0</source>
+          <target state="new">f875deed-9787-4444-b761-6b45b037f1f0</target>
         </trans-unit>
-        <trans-unit id="1af1d772-9194-4c43-995d-87770c6e4a56" xml:space="preserve">
+        <trans-unit id="896e037b-edf9-44a2-90b8-3e0ddea4966e" xml:space="preserve">
           <source>thanks!</source>
           <target state="new">thanks!</target>
         </trans-unit>
