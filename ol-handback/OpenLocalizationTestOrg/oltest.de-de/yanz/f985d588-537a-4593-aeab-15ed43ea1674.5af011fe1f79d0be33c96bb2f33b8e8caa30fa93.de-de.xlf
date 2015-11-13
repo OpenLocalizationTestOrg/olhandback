@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="de-de" original="foo.file" tool-id="71d3077e-0d04-41d0-a238-e147e136a466" product-name="foo" product-version="1.0" build-num="1">
+    <header>
+      <tool tool-id="71d3077e-0d04-41d0-a238-e147e136a466" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+      <olfilehash xmlns="">0486dc59d31a4e5868497e589ba053910a87a742</olfilehash>
+    </header>
+    <body>
+      <group id="45f0a1f7-e1f3-4bb9-9d0d-2258db69d852">
+        <trans-unit id="afbb67e4-2ee3-4508-b440-fb67efb9592c" xml:space="preserve">
+          <source>OpenLocalization Workflow Test MarkDown</source>
+          <target state="new">OpenLocalization Workflow Test MarkDown</target>
+        </trans-unit>
+        <trans-unit id="3388dd4d-553b-4456-a81c-83da59813d4d" xml:space="preserve">
+          <source>429cf59e-01d5-4f97-bf7c-a9e27d03e651</source>
+          <target state="new">429cf59e-01d5-4f97-bf7c-a9e27d03e651</target>
+        </trans-unit>
+        <trans-unit id="f58c9be9-bb19-4994-b64f-b604aadbeb9d" xml:space="preserve">
+          <source>thanks!</source>
+          <target state="new">thanks!</target>
+        </trans-unit>
+        <trans-unit id="b2c4bb79-a5d5-47d9-a2ad-570597e7fa2e" xml:space="preserve">
+          <source>test1</source>
+          <target state="new">test1</target>
+        </trans-unit>
+        <trans-unit id="eaa9fa1d-dbab-40dd-8fda-1231a20e0356" xml:space="preserve">
+          <source>test2</source>
+          <target state="new">测试2</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
