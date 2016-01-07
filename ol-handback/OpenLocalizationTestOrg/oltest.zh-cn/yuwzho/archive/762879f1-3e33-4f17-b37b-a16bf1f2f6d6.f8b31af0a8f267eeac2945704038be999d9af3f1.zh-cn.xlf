@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-us" target-language="zh-cn" original="1/7/2016 9:42:25 PM" tool-id="MarkdownTransformer" product-name="N/A" product-version="N/A" build-num="1">
+  <file datatype="xml" source-language="en-us" target-language="zh-cn" original="1/7/2016 9:43:04 PM" tool-id="MarkdownTransformer" product-name="N/A" product-version="N/A" build-num="1">
     <header>
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b1ce691976270ce4a0fa0493390d495b4f302e39</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7c73167933b253436888d7bf9a400f3025cbdb67</xliffext:olfilehash>
       <tool tool-id="MarkdownTransformer" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
     </header>
     <body>
@@ -13,8 +13,8 @@
             <target state="new">OpenLocalization Workflow Test MarkDown</target>
           </trans-unit>
           <trans-unit id="102" xml:space="preserve">
-            <source>f22cbbb2-45bc-435d-901f-e259fb62a0ef</source>
-            <target state="new">f22cbbb2-45bc-435d-901f-e259fb62a0ef</target>
+            <source>9eacac3c-d8a5-40d8-bbad-397dbcd7b781</source>
+            <target state="new">9eacac3c-d8a5-40d8-bbad-397dbcd7b781</target>
           </trans-unit>
           <trans-unit id="103" xml:space="preserve">
             <source>thanks!</source>
