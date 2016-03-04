@@ -8,8 +8,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>c7a8bf0a-6b15-4aa6-8639-b80791060427</source>
-          <target state="new">c7a8bf0a-6b15-4aa6-8639-b80791060427</target>
+          <source>0ced5028-3962-4d69-820e-f9545dab9630</source>
+          <target state="new">0ced5028-3962-4d69-820e-f9545dab9630</target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>thanks!</source>
@@ -20,6 +20,6 @@
   </file>
   <header xmlns="">
     <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
-    <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">cd0e6ea11a4759ced2788a6f15738af1276dfe3c</xliffext:olfilehash>
+    <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">baa599fe4e762f135f88819f41b04967a377cb61</xliffext:olfilehash>
   </header>
 </xliff>
