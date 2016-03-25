@@ -3,7 +3,7 @@
   <file datatype="xml" original="md" source-language="en-US" target-language="de-de">
     <header>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">56abc016356b1c138510da8a28d01fc720122d25</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c4b51c5f1c9ff14b7b31789458b2d6c6c61fcd09</xliffext:olfilehash>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-02a95cf" tool-company="Microsoft" />
     </header>
     <body>
@@ -13,8 +13,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>659f52e8-0cc4-49f7-92fa-4841c20a0839</source>
-          <target state="new">659f52e8-0cc4-49f7-92fa-4841c20a0839</target>
+          <source>e4c5d0f3-d15e-4b39-800d-2c18badb7d6d</source>
+          <target state="new">e4c5d0f3-d15e-4b39-800d-2c18badb7d6d</target>
         </trans-unit>
         <trans-unit id="103" translate="yes" xml:space="preserve">
           <source>thanks!</source>
