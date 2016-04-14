@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "d6a0c1d9a193f98e57d7b4c23106c17c86d58b0e",
+  "LastProcessedCommit": "a406e3cda2ff611dc80f4c9dc8f03cd8c0c061be",
   "LastTranslatedCommit": "9d9b16110cd6a6a765d1c66347e512577827b0c0",
   "Items": {
     "c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc": {
@@ -95,7 +95,8 @@
       "SourceFilePath": "e2e\\github.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "e2e\\testimage.md"
+        "e2e\\testimage.md",
+        "e2e\\move\\testimage.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -157,7 +158,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\Ping.md"
+        "e2e\\Ping.md",
+        "e2e\\aaaaalllllladnasfhaskdf.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\Ping.95b58797b320fac8f901ea501ac186551882a36c.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -215,7 +217,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\sync.md"
+        "e2e\\sync.md",
+        "e2e\\move\\sync.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\sync.4881ec8b007605f9d1b860476d234d20da118439.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -244,7 +247,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\test.yml"
+        "e2e\\test.yml",
+        "e2e\\move\\test.yml"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\test.923206bb82dbf3e3e0eb9ce21d5fde1d0b3b472b.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -273,7 +277,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\test1.md"
+        "e2e\\test1.md",
+        "e2e\\move\\test1.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\test1.29bc21b3f55532cdefcb885ffedfe40bf4096522.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -447,7 +452,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\testimage.md"
+        "e2e\\testimage.md",
+        "e2e\\move\\testimage.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\testimage.e4fe78243ea29c8cf8db612f5ed26f5eefd71ea9.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -506,7 +512,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\test-scenario-1.md"
+        "e2e\\test-scenario-1.md",
+        "e2e\\move\\test-scenario-1.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -565,7 +572,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\TOC.yml"
+        "e2e\\TOC.yml",
+        "e2e\\move\\TOC.yml"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\TOC.abc1ff9cd7077188122186bb8918c8ba02a02864.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -594,7 +602,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\workerroletest.md"
+        "e2e\\workerroletest.md",
+        "e2e\\move\\workerroletest.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.pl-pl.xlf",
       "HandoffFileCommit": "097be0556ec0ca1176da9793a7247c1510426f0e",
@@ -739,7 +748,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\test1-aaa.md"
+        "e2e\\test1-aaa.md",
+        "e2e\\move\\test1-aaa.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\test1-aaa.58524ca6fce63e3b61e4ebadfe7febf9ec5a7106.pl-pl.xlf",
       "HandoffFileCommit": "df6285364ab60d01e86917f98ad9c4e8b8118c81",
