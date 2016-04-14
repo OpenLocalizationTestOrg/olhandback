@@ -1,0 +1,17 @@
+{
+  "filters": [
+    {
+      "files": [ "!**/osmond*.md", "**/*.md", "**/*.yml" ],
+      "priorities": [
+        {
+          "priority": "ht-test",
+          "locales": [ "pl-pl"]
+        }
+      ]
+    }
+  ],
+  "includeDependencies": true,
+  "autoPush": true,
+  "xliffVersion": "1.2",
+  "TranslationSysFileDestination": "HandbackRepo"
+}
