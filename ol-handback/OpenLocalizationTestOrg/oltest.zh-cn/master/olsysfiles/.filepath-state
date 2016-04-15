@@ -59,9 +59,6 @@
   "faab47eebaf26b80034ed1dfbe89638f6a67b988": [
     "e2e\\test2\\test2.md"
   ],
-  "a048092ef32f7167a3cfd0ab2718722bb0f90072": [
-    "e2e\\test2\\testworkerrole.md"
-  ],
   "042136a12c4f55f995245b6d63706788e4f3d8af": [
     "README.md"
   ],
@@ -82,5 +79,12 @@
   ],
   "c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd806": [
     "TOC1.yml"
+  ],
+  "bb5e65d1674bd704fd08ec8f96ff2d1842957018": [
+    "e2e\\same\\test1.md",
+    "e2e\\same\\test2.md"
+  ],
+  "25842a21bb79c9729b3bacc9da68d04e1b145257": [
+    "e2e\\test2\\1111117777ss.md"
   ]
 }
