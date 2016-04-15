@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/438df72ea5b2be79087a01b4176ad367ac982805/e2e/Pong.md) | HandedOffSuccess | [Details](#6a204bff74e5e64359769dd1b44a33f18ca4c84220)
+ [README.md](https://github.com/OpenLocalizationTest/oltest/blob/bd9afd8987cdd4646c44ecb2c72bf11f450b4462/README.md) | HandedOffSuccess | [Details](#042136a12c4f55f995245b6d63706788e4f3d8af26)
 
 ## Item Details
-##### <a name='6a204bff74e5e64359769dd1b44a33f18ca4c84220'></a> Source: [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/438df72ea5b2be79087a01b4176ad367ac982805/e2e/Pong.md)
+##### <a name='042136a12c4f55f995245b6d63706788e4f3d8af26'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/bd9afd8987cdd4646c44ecb2c72bf11f450b4462/README.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Pong.f5965988772320608f28a831c2d662c88665d3e1.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e0f6379660d8b7a02122ce41f627c65d7049cc9e/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/Pong.f5965988772320608f28a831c2d662c88665d3e1.zh-cn.xlf)
-* Handoff Datetime: 2016-04-15 06:30:23
+* Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/86a9a13c17c263374d663737c2bd34535525de4c/ol-handoff/OpenLocalizationTestOrg/oltest.zh-cn/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf)
+* Handoff Datetime: 2016-04-15 15:37:50
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
