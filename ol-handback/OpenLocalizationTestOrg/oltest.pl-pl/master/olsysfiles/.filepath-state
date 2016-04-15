@@ -47,9 +47,6 @@
   "27f2c92671a21d016418a3be5d99d638ffe66c3c": [
     "e2e\\move\\test-scenario-1.md"
   ],
-  "a048092ef32f7167a3cfd0ab2718722bb0f90072": [
-    "e2e\\test2\\testworkerrole.md"
-  ],
   "b12aecafbe61fff90f5d3f42398ed637c5ac7794": [
     "e2e\\move\\TOC.yml"
   ],
@@ -73,5 +70,12 @@
   ],
   "786691eee741a7bae34dcb5d5d60eb6d4ae560b6": [
     "e2e\\move\\test1-aaa.md"
+  ],
+  "bb5e65d1674bd704fd08ec8f96ff2d1842957018": [
+    "e2e\\same\\test1.md",
+    "e2e\\same\\test2.md"
+  ],
+  "25842a21bb79c9729b3bacc9da68d04e1b145257": [
+    "e2e\\test2\\1111117777ss.md"
   ]
 }
