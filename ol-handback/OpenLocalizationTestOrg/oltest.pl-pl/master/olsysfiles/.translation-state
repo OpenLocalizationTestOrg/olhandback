@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "12a166e658e4172b7714942da1e341d354f828dd",
+  "LastProcessedCommit": "3331ac3e6a7c5dc7390464bda5cb1c91307b2497",
   "LastTranslatedCommit": "127ca050852fd3379748577c3c2a756aab0b525e",
   "Items": {
     "c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc": {
@@ -940,6 +940,66 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-04-15T15:54:51.4681901Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b5d96b915b9cd37f0716e368910218c672081bb3": {
+      "FileHash": "b5d96b915b9cd37f0716e368910218c672081bb3",
+      "SourceFileCommit": "3331ac3e6a7c5dc7390464bda5cb1c91307b2497",
+      "SourceFilePath": "e2e\\a.jpg",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "e2e\\image.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\a.jpg"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\b5d96b915b9cd37f0716e368910218c672081bb3.jpg",
+      "HandoffFileCommit": "c2711dceb436b140dacb9d9d290968966ca2f98f",
+      "HandoffDateTime": "2016-04-20T10:18:37.9021858Z",
+      "HandoffPriority": "ht-test",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "df51791ffb8d6b79e2631cf4b8c739f3e87e2839": {
+      "FileHash": "df51791ffb8d6b79e2631cf4b8c739f3e87e2839",
+      "SourceFileCommit": "3331ac3e6a7c5dc7390464bda5cb1c91307b2497",
+      "SourceFilePath": "e2e\\image.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\image.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\image.12e1e485675155e79cf5d96a06d2537a4b7d1795.pl-pl.xlf",
+      "HandoffFileCommit": "c2711dceb436b140dacb9d9d290968966ca2f98f",
+      "HandoffDateTime": "2016-04-20T10:18:37.9021858Z",
+      "HandoffPriority": "ht-test",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
