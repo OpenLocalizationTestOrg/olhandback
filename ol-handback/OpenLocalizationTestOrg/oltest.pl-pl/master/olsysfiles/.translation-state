@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "4f8149ab1df5d1fc486ae5ce940db2275291a926",
-  "LastTranslatedCommit": "127ca050852fd3379748577c3c2a756aab0b525e",
+  "LastTranslatedCommit": "03153790e9c4675a7bc7fd3b91778bb69301a23a",
   "Items": {
     "c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc": {
       "FileHash": "c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc",
@@ -1021,14 +1021,14 @@
       "HandoffPriority": "ht-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "03153790e9c4675a7bc7fd3b91778bb69301a23a",
+      "TargetFilePath": "e2e\\Pong.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\Pong.f5965988772320608f28a831c2d662c88665d3e1.pl-pl.xlf",
+      "HandbackFileCommit": "221119b6120211d488a15ba50ab24f062bb11140",
+      "HandbackDateTime": "2016-04-26T11:20:59.8290747Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-04-26T11:20:59.8290747Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
