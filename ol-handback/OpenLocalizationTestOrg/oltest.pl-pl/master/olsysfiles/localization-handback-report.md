@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/4f8149ab1df5d1fc486ae5ce940db2275291a926/e2e/Pong.md) | InSyncHandedBackSuccess | [Details](#1738264a4f81d5cf5eac21b79a9865c51e0b550522)
 
 ## Item Details
-##### <a name='1738264a4f81d5cf5eac21b79a9865c51e0b550522'></a> Source: [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/4f8149ab1df5d1fc486ae5ce940db2275291a926/e2e/Pong.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [e2e\Pong.md](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/03153790e9c4675a7bc7fd3b91778bb69301a23a/e2e/Pong.md)
-* Handoff File: [Pong.f5965988772320608f28a831c2d662c88665d3e1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/eb276f3014d2b6c524c006cf1e82e0456c7efaea/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/Pong.f5965988772320608f28a831c2d662c88665d3e1.pl-pl.xlf)
-* Handoff Datetime: 2016-04-26 11:09:38
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [Pong.f5965988772320608f28a831c2d662c88665d3e1.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/221119b6120211d488a15ba50ab24f062bb11140/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/Pong.f5965988772320608f28a831c2d662c88665d3e1.pl-pl.xlf)
-* Handback Datetime: 2016-04-26 11:20:59
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
