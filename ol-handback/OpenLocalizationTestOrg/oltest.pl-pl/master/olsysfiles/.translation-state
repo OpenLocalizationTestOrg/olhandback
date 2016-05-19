@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "8d9d1440f77802e021b712fca6fe1711a28dd6c5",
+  "LastProcessedCommit": "e3a1a73d1c34a5d0f94fe69c83338d2c767e33bc",
   "LastTranslatedCommit": "03153790e9c4675a7bc7fd3b91778bb69301a23a",
   "Items": {
     "c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc": {
@@ -1113,6 +1113,36 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\Pong.f5965988772320608f28a831c2d662c88665d3e1.pl-pl.xlf",
       "HandoffFileCommit": "3c0618d5fab7adaca2e53f3fde840a94d1f39a50",
       "HandoffDateTime": "2016-04-28T01:54:49.6905048Z",
+      "HandoffPriority": "ht-test",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "3893f8c8822f0bc5c50ddc8789d3651196cdab00": {
+      "FileHash": "3893f8c8822f0bc5c50ddc8789d3651196cdab00",
+      "SourceFileCommit": "e3a1a73d1c34a5d0f94fe69c83338d2c767e33bc",
+      "SourceFilePath": "TOC1.yml",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "TOC1.yml"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf",
+      "HandoffFileCommit": "590a2e9cfae596702be03be102cd662893e4f523",
+      "HandoffDateTime": "2016-05-19T10:20:49.2488894Z",
       "HandoffPriority": "ht-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
