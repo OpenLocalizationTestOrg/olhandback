@@ -8,8 +8,8 @@
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 3
-[ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 5
+[ Handback Failed Files ](#handback-failed-list)| 1
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 4
 [ In Sync Handback Files ](#insync-handback-success-list)| 21
 [ Ignored Files ](#ignored-list)| 5
 
@@ -27,6 +27,9 @@
  [e2e\loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong.md](https://github.com/OpenLocalizationTest/oltest/blob/53a051ed6dbe7cf065a12703566cbd921908e133/e2e/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong.md) | ArchivedSuccess | [Details](#1d1d611c421df4ad4f0045ae8f58bfbd19d046ce12)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/e3a1a73d1c34a5d0f94fe69c83338d2c767e33bc/TOC1.yml) | HandedBackFailed | [Details](#3893f8c8822f0bc5c50ddc8789d3651196cdab0033)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
  Source File | Status | Details 
@@ -35,7 +38,6 @@
  [e2e\move\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/1d51713d5bdaf47b6f1b0b93064632b03daff899/e2e/move/TOC.yml) | OutofSyncHandedBackSuccess | [Details](#40087b9c3f41a00a8e5ef693e5285224521a396719)
  [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/8d9d1440f77802e021b712fca6fe1711a28dd6c5/e2e/Pong.md) | OutofSyncHandedBackSuccess | [Details](#b46377c40507d7479ba8f3238e93d4e864ee491022)
  [README.md](https://github.com/OpenLocalizationTest/oltest/blob/bd9afd8987cdd4646c44ecb2c72bf11f450b4462/README.md) | OutofSyncHandedBackSuccess | [Details](#042136a12c4f55f995245b6d63706788e4f3d8af30)
- [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/e3a1a73d1c34a5d0f94fe69c83338d2c767e33bc/TOC1.yml) | OutofSyncHandedBackSuccess | [Details](#3893f8c8822f0bc5c50ddc8789d3651196cdab0033)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
@@ -483,7 +485,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3893f8c8822f0bc5c50ddc8789d3651196cdab0033'></a> Source: [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/e3a1a73d1c34a5d0f94fe69c83338d2c767e33bc/TOC1.yml)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6dbe0227b23f8680788a8fb7a5f7ed5670f7fb0b/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf)
 * Handoff Datetime: 2016-05-20 02:01:00
@@ -492,12 +494,16 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [TOC1.yml](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/9d9b16110cd6a6a765d1c66347e512577827b0c0/TOC1.yml)
-* Current Handback File: [TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/ac2ab3f01a94e0ffd784f5468c7eba7f2d93492a/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf)
-* Current Handback Datetime: 2016-04-14 04:17:28
+* Handback Error: [handback_transform_failed](#3893f8c8822f0bc5c50ddc8789d3651196cdab0033handback_transform_failed)
 * [Back to Top](#report-top)
 
 
 ## Error Details
+##### <a name='3893f8c8822f0bc5c50ddc8789d3651196cdab0033handback_transform_failed'></a> Source: [TOC1.yml](#3893f8c8822f0bc5c50ddc8789d3651196cdab0033)
+* Error Code: handback_transform_failed
+* Error Message: Handback file: C:\gittest\master\OpenLocalizationTest\olhandback\10825c\ol-handback\OpenLocalizationTestOrg\oltest.pl-pl\master\ht-test\TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf failed.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\gittest\\master\\OpenLocalizationTest\\olhandback\\10825c\\ol-handback\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf failed.","internal_error_retriable":false,"exception_message":"(Line: 35, Col: 49, Idx: 628) - (Line: 35, Col: 49, Idx: 628): Mapping values are not allowed in this context.","exception_type":"System.IO.InvalidDataException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.ValidateLocalizedFile(Stream stream, String extension) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\XliffTransformerExtensions.cs:line 347\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\XliffTransformerExtensions.cs:line 208\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile, Boolean useJavascriptTransformer) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 42\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 424","extended_information":null}
+
 
 Generated by OpenLocalization.
