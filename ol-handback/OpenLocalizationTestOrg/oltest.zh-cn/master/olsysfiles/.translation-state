@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "1d51713d5bdaf47b6f1b0b93064632b03daff899",
+  "LastProcessedCommit": "01cc4f66cf70ba86d87b1ed073df89f1afbdb4a5",
   "LastTranslatedCommit": null,
   "Items": {
     "c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc": {
@@ -30,7 +30,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "4bbaa6a866490f7f9a4ba831373345d0fe1e721a": {
       "FileHash": "4bbaa6a866490f7f9a4ba831373345d0fe1e721a",
@@ -60,7 +64,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "a9f2cae8c8f715a8bab071ea5a984a6df6297c9a": {
       "FileHash": "a9f2cae8c8f715a8bab071ea5a984a6df6297c9a",
@@ -90,7 +98,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc": {
       "FileHash": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc",
@@ -120,7 +132,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "6b46804023690e9d49f53b16f91c3ef20b14d51f": {
       "FileHash": "6b46804023690e9d49f53b16f91c3ef20b14d51f",
@@ -150,7 +166,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "1d1d611c421df4ad4f0045ae8f58bfbd19d046ce": {
       "FileHash": "1d1d611c421df4ad4f0045ae8f58bfbd19d046ce",
@@ -180,7 +200,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "68a478de3dddc7d1ced415e47c6ebc6e2f3c35f2": {
       "FileHash": "68a478de3dddc7d1ced415e47c6ebc6e2f3c35f2",
@@ -210,7 +234,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "35e6ff902f65884b1196c23104e20ce816ae7805": {
       "FileHash": "35e6ff902f65884b1196c23104e20ce816ae7805",
@@ -240,7 +268,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "296bd5958987b4bbfbc96fbdbc457601b52e9435": {
       "FileHash": "296bd5958987b4bbfbc96fbdbc457601b52e9435",
@@ -270,7 +302,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "786691eee741a7bae34dcb5d5d60eb6d4ae560b6": {
       "FileHash": "786691eee741a7bae34dcb5d5d60eb6d4ae560b6",
@@ -300,7 +336,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0dffad9ae5ce24ee11aca10890395c0d707d5ce3": {
       "FileHash": "0dffad9ae5ce24ee11aca10890395c0d707d5ce3",
@@ -330,7 +370,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "27f2c92671a21d016418a3be5d99d638ffe66c3c": {
       "FileHash": "27f2c92671a21d016418a3be5d99d638ffe66c3c",
@@ -360,7 +404,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b12aecafbe61fff90f5d3f42398ed637c5ac7794": {
       "FileHash": "b12aecafbe61fff90f5d3f42398ed637c5ac7794",
@@ -390,7 +438,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0230be5b6a99a72281fb408287844784080fb864": {
       "FileHash": "0230be5b6a99a72281fb408287844784080fb864",
@@ -420,7 +472,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "a419ccf05ae162d23147d45d3bcd7ddf6102b770": {
       "FileHash": "a419ccf05ae162d23147d45d3bcd7ddf6102b770",
@@ -450,7 +506,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc39": {
       "FileHash": "0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc39",
@@ -480,7 +540,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "fc59fb718925ced7c65137c8a22f4a82ece5abdc": {
       "FileHash": "fc59fb718925ced7c65137c8a22f4a82ece5abdc",
@@ -510,7 +574,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3ec43baf1d1c8bef03a22ab0b9f609909c78b48f": {
       "FileHash": "3ec43baf1d1c8bef03a22ab0b9f609909c78b48f",
@@ -540,7 +608,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "faab47eebaf26b80034ed1dfbe89638f6a67b988": {
       "FileHash": "faab47eebaf26b80034ed1dfbe89638f6a67b988",
@@ -570,7 +642,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "a048092ef32f7167a3cfd0ab2718722bb0f90072": {
       "FileHash": "a048092ef32f7167a3cfd0ab2718722bb0f90072",
@@ -600,7 +676,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "916dbf2a885a8874e0ab19aa0b629d578ed76fc8": {
       "FileHash": "916dbf2a885a8874e0ab19aa0b629d578ed76fc8",
@@ -630,7 +710,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b2d3f1368106dd65206c998968faeaf579352355": {
       "FileHash": "b2d3f1368106dd65206c998968faeaf579352355",
@@ -660,7 +744,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "4e1243bd22c66e76c2ba9eddc1f91394e57f9f83": {
       "FileHash": "4e1243bd22c66e76c2ba9eddc1f91394e57f9f83",
@@ -690,7 +778,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd806": {
       "FileHash": "c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd806",
@@ -720,7 +812,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3fa4fe06dd05e29d5ffc4f84dc4eae9fc052e076": {
       "FileHash": "3fa4fe06dd05e29d5ffc4f84dc4eae9fc052e076",
@@ -750,7 +846,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "0e72a006aa884e1362175b91be8a9f2acd27a01c": {
       "FileHash": "0e72a006aa884e1362175b91be8a9f2acd27a01c",
@@ -780,7 +880,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "6a204bff74e5e64359769dd1b44a33f18ca4c842": {
       "FileHash": "6a204bff74e5e64359769dd1b44a33f18ca4c842",
@@ -810,7 +914,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "042136a12c4f55f995245b6d63706788e4f3d8af": {
       "FileHash": "042136a12c4f55f995245b6d63706788e4f3d8af",
@@ -840,7 +948,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "bb5e65d1674bd704fd08ec8f96ff2d1842957018": {
       "FileHash": "bb5e65d1674bd704fd08ec8f96ff2d1842957018",
@@ -871,7 +983,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "25842a21bb79c9729b3bacc9da68d04e1b145257": {
       "FileHash": "25842a21bb79c9729b3bacc9da68d04e1b145257",
@@ -901,7 +1017,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b5d96b915b9cd37f0716e368910218c672081bb3": {
       "FileHash": "b5d96b915b9cd37f0716e368910218c672081bb3",
@@ -933,7 +1053,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "df51791ffb8d6b79e2631cf4b8c739f3e87e2839": {
       "FileHash": "df51791ffb8d6b79e2631cf4b8c739f3e87e2839",
@@ -963,7 +1087,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b46377c40507d7479ba8f3238e93d4e864ee4910": {
       "FileHash": "b46377c40507d7479ba8f3238e93d4e864ee4910",
@@ -993,7 +1121,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "b3b60693fccbd54f323fe8c34cabe93ca6e4e27d": {
       "FileHash": "b3b60693fccbd54f323fe8c34cabe93ca6e4e27d",
@@ -1023,7 +1155,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "40087b9c3f41a00a8e5ef693e5285224521a3967": {
       "FileHash": "40087b9c3f41a00a8e5ef693e5285224521a3967",
@@ -1053,7 +1189,11 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     },
     "3893f8c8822f0bc5c50ddc8789d3651196cdab00": {
       "FileHash": "3893f8c8822f0bc5c50ddc8789d3651196cdab00",
@@ -1083,7 +1223,45 @@
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
-      "ArchiveException": null
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "e942d5d5c8056fbdc2fe8c428a55a9615e092a90": {
+      "FileHash": "e942d5d5c8056fbdc2fe8c428a55a9615e092a90",
+      "SourceFileCommit": "01cc4f66cf70ba86d87b1ed073df89f1afbdb4a5",
+      "SourceFilePath": "README.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "README.md"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.zh-cn\\master\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf",
+      "HandoffFileCommit": "0f560f89e969d2930f7cd16043f94e379d6764b6",
+      "HandoffDateTime": "2016-06-08T12:32:36.4719557Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
     }
   }
 }
