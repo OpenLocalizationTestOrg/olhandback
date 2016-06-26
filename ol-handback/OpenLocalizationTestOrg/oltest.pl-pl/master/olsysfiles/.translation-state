@@ -24,7 +24,7 @@
       "TargetFilePath": "a1111.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.pl-pl\\master\\ht-test\\a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf",
       "HandbackFileCommit": "00806a75c56f876a85a6fa13c21033dc86ae8656",
-      "HandbackDateTime": "2016-06-26T04:13:59.3477783Z",
+      "HandbackDateTime": "2016-06-26T04:24:23.3536232Z",
       "HandbackException": {
         "internal_error_code": "handback_transformer_version_mismatch_with_handoff_transformer_version",
         "internal_error_message": "Can’t handback because handoff is based on outdated transformer with tool-version 1.0-708c90d, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.",
@@ -34,7 +34,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 3,
+      "HandbackFailureTimes": 4,
       "UpdatedDateTime": "2016-06-26T03:34:09.9938278Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
