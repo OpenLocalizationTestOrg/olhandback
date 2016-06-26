@@ -5,7 +5,8 @@
       "priorities": [
         {
           "priority": "ht-test",
-          "locales": [ "pl-pl"]
+          "locales": [ "pl-pl"],
+          "type": "MT"
         }
       ]
     }
