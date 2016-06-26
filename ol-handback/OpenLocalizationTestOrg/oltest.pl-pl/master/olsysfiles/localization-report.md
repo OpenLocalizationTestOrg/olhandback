@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 1
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 24
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 23
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 5
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -34,7 +34,6 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [a1111.md](https://github.com/OpenLocalizationTest/oltest/blob/dcf9765a928c48ab5d997edb3bf448fddedb77de/a1111.md) | OutofSyncHandedBackSuccess | [Details](#c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc3)
  [e2e\1111111111111111.md](https://github.com/OpenLocalizationTest/oltest/blob/d6a0c1d9a193f98e57d7b4c23106c17c86d58b0e/e2e/1111111111111111.md) | OutofSyncHandedBackSuccess | [Details](#4bbaa6a866490f7f9a4ba831373345d0fe1e721a4)
  [e2e\aaaaalllllladnasfhaskdf.md](https://github.com/OpenLocalizationTest/oltest/blob/a406e3cda2ff611dc80f4c9dc8f03cd8c0c061be/e2e/aaaaalllllladnasfhaskdf.md) | OutofSyncHandedBackSuccess | [Details](#a9f2cae8c8f715a8bab071ea5a984a6df6297c9a6)
  [e2e\empty.yml](https://github.com/OpenLocalizationTest/oltest/blob/6345dedf37e5a53c160de74fa023a422ffc483d7/e2e/empty.yml) | OutofSyncHandedBackSuccess | [Details](#adc83b19e793491b1c6ea0fd8b46cd9f32e592fc8)
@@ -62,6 +61,7 @@
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [a1111.md](https://github.com/OpenLocalizationTest/oltest/blob/dcf9765a928c48ab5d997edb3bf448fddedb77de/a1111.md) | InSyncHandedBackSuccess | [Details](#c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc3)
  [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/ccfe2b8680d94d81533f7191ee9594d7ac331b17/e2e/github.png) | InSyncHandedBackSuccess | [Details](#c842d8537f73ae67d662c3d33c5d93a0b069dada10)
 
 ## <a name='ignored-list'></a> Ignored File List
@@ -111,7 +111,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc3'></a> Source: [a1111.md](https://github.com/OpenLocalizationTest/oltest/blob/dcf9765a928c48ab5d997edb3bf448fddedb77de/a1111.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: InSyncHandedBackSuccess
 * Target File: [a1111.md](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/ce9b918d090256d58dd9ffb28df1421b02189c9e/a1111.md)
 * Handoff File: [a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6890570e9530a4b361e240a017c96aba569ba0d7/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf)
 * Handoff Datetime: 2016-06-26 03:37:39
@@ -119,7 +119,8 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/00806a75c56f876a85a6fa13c21033dc86ae8656/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf)
-* Handback Datetime: 2016-06-26 03:34:09
+* Handback Datetime: 2016-06-26 03:54:13
+* Handback Error: [handback_transformer_version_mismatch_with_handoff_transformer_version](#c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc3handback_transformer_version_mismatch_with_handoff_transformer_version)
 * Bilingual File: [a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/00806a75c56f876a85a6fa13c21033dc86ae8656/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/a1111.c541c8d3db91dc730273a2cccabd2d17f7846d69.pl-pl.xlf)
 * Bilingual Datetime: 2016-06-26 03:34:26
 * [Back to Top](#report-top)
@@ -549,6 +550,12 @@
 
 
 ## Error Details
+##### <a name='c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc3handback_transformer_version_mismatch_with_handoff_transformer_version'></a> Source: [a1111.md](#c9d6f277e2c71f4e8fb74b2a957c95224ffe75bc3)
+* Error Code: handback_transformer_version_mismatch_with_handoff_transformer_version
+* Error Message: Can’t handback because handoff is based on outdated transformer with tool-version 1.0-708c90d, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_transformer_version_mismatch_with_handoff_transformer_version","internal_error_message":"Can’t handback because handoff is based on outdated transformer with tool-version 1.0-708c90d, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.","internal_error_retriable":false,"exception_message":"Can’t handback because handoff is based on outdated transformer with tool-version 1.0-708c90d, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 ##### <a name='3893f8c8822f0bc5c50ddc8789d3651196cdab0033handback_transform_failed'></a> Source: [TOC1.yml](#3893f8c8822f0bc5c50ddc8789d3651196cdab0033)
 * Error Code: handback_transform_failed
 * Error Message: Handback file: C:\gittest\master\OpenLocalizationTest\olhandback\10825c\ol-handback\OpenLocalizationTestOrg\oltest.pl-pl\master\ht-test\TOC1.d219c6d49852d625b7ace0e9b181d67cc10eae5f.pl-pl.xlf failed.
