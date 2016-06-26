@@ -10,7 +10,7 @@
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
           <source>Enter file contents herejhgjhgf</source>
-          <target state="new">Enter file contents herejhgjhgf</target>
+          <target state="new">E重新handback herejhgjhgf</target>
         </trans-unit>
       </group>
     </body>
