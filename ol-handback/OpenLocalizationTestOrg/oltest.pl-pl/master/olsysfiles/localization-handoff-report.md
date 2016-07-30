@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTest/oltest/blob/12a166e658e4172b7714942da1e341d354f828dd/e2e/test2/1111117777ss.md) | OutofSyncHandedBackSuccess | [Details](#25842a21bb79c9729b3bacc9da68d04e1b14525728)
 
 ## Item Details
+##### <a name='25842a21bb79c9729b3bacc9da68d04e1b14525728'></a> Source: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTest/oltest/blob/12a166e658e4172b7714942da1e341d354f828dd/e2e/test2/1111117777ss.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/127ca050852fd3379748577c3c2a756aab0b525e/e2e/test2/1111117777ss.md)
+* Handoff File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/45180776164252bb741df4889455d972f8029441/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
+* Handoff Datetime: 2016-07-30 00:18:41
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/2007233e68322e38c5bc23b945d7819792d0d475/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
+* Handback Datetime: 2016-04-15 15:54:51
+* Bilingual File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/2007233e68322e38c5bc23b945d7819792d0d475/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
+* Bilingual Datetime: 2016-06-26 03:34:26
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
