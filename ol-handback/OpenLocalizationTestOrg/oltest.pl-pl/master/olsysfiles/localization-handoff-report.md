@@ -13,7 +13,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/127ca050852fd3379748577c3c2a756aab0b525e/e2e/test2/1111117777ss.md)
 * Handoff File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/dd84e45b32c965722789f6b15c0ad1bb3ccd3095/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
-* Handoff Datetime: 2016-07-30 23:22:11
+* Handoff Datetime: 2016-07-31 02:25:47
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
