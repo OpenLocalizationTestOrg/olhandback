@@ -12,8 +12,8 @@
 ##### <a name='25842a21bb79c9729b3bacc9da68d04e1b14525728'></a> Source: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTest/oltest/blob/12a166e658e4172b7714942da1e341d354f828dd/e2e/test2/1111117777ss.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/127ca050852fd3379748577c3c2a756aab0b525e/e2e/test2/1111117777ss.md)
-* Handoff File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a6f62b77d446cf7d9d0505667e9e299c13549f92/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
-* Handoff Datetime: 2016-07-31 02:59:58
+* Handoff File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/01074dd7518f9df9ae3f6def73fa80cd050b50ea/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
+* Handoff Datetime: 2016-08-01 17:05:29
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

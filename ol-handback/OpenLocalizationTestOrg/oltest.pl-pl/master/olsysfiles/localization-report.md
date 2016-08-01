@@ -465,11 +465,11 @@
 ##### <a name='25842a21bb79c9729b3bacc9da68d04e1b14525728'></a> Source: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTest/oltest/blob/12a166e658e4172b7714942da1e341d354f828dd/e2e/test2/1111117777ss.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [e2e\test2\1111117777ss.md](https://github.com/OpenLocalizationTestOrg/oltest.pl-pl/blob/127ca050852fd3379748577c3c2a756aab0b525e/e2e/test2/1111117777ss.md)
-* Handoff File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a6f62b77d446cf7d9d0505667e9e299c13549f92/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
-* Handoff Datetime: 2016-07-31 02:59:58
+* Handoff File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/01074dd7518f9df9ae3f6def73fa80cd050b50ea/ol-handoff/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
+* Handoff Datetime: 2016-08-01 17:05:29
 * Handoff Reason: Include
-* Archive File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/dc9235b04a795981c3bffefd5a60b604706e4280/ol-archive/OpenLocalizationTestOrg/oltest.pl-pl/master/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
-* Archive Datetime: 2016-07-31 03:01:16
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/2007233e68322e38c5bc23b945d7819792d0d475/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
 * Handback Datetime: 2016-04-15 15:54:51
 * Bilingual File: [1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/2007233e68322e38c5bc23b945d7819792d0d475/ol-handback/OpenLocalizationTestOrg/oltest.pl-pl/master/ht-test/1111117777ss.52737dbd6c620bebfe2cffe9f1dd7265e1de33f2.pl-pl.xlf)
